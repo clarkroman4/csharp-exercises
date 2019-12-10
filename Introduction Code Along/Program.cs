@@ -7,6 +7,7 @@ namespace Introduction_Code_Along
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
